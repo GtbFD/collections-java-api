@@ -1,4 +1,4 @@
-package map.operacoesbasicas;
+package set.operacoesbasicas;
 
 public class Convidado {
 

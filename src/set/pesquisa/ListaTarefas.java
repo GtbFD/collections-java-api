@@ -1,6 +1,4 @@
-package map.ordenacao;
-
-import list.operacoesbasicas.listatarefas.ListaTarefa;
+package set.pesquisa;
 
 import java.util.HashSet;
 import java.util.Set;
